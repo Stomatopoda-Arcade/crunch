@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.1.2)
+cmake_minimum_required(VERSION 4.0.0)
 
 project(crunch VERSION 0.12 LANGUAGES C CXX)
 
